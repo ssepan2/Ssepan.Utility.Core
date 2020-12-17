@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ssepan.Utility.Core", "Ssepan.Utility.Core\Ssepan.Utility.Core.csproj", "{9C11D8DD-E335-4FE3-AAE6-5C3B17732890}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourceRegistrationForm", "EventSourceRegistrationForm\EventSourceRegistrationForm.csproj", "{808ADBFE-AFC8-4073-84B1-19D7D89088E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C11D8DD-E335-4FE3-AAE6-5C3B17732890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C11D8DD-E335-4FE3-AAE6-5C3B17732890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C11D8DD-E335-4FE3-AAE6-5C3B17732890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C11D8DD-E335-4FE3-AAE6-5C3B17732890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808ADBFE-AFC8-4073-84B1-19D7D89088E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808ADBFE-AFC8-4073-84B1-19D7D89088E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808ADBFE-AFC8-4073-84B1-19D7D89088E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808ADBFE-AFC8-4073-84B1-19D7D89088E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E9DD56-1468-4E9D-A383-5A349F22D04E}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Ssepan.Utility.Core.vsmdi
+	EndGlobalSection
+EndGlobal
