@@ -6,7 +6,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Reflection;
 
-namespace Ssepan.Utility
+namespace Ssepan.Utility.Core
 {
     public static class Log
     {

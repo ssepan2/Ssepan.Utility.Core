@@ -5,9 +5,9 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using Microsoft.Win32;
-using Ssepan.Utility;
+using Ssepan.Utility.Core;
 
-namespace Ssepan.Utility
+namespace Ssepan.Utility.Core
 {
     /// <summary>
     /// Provides access to the Registry for maintaining persistent storage.

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ssepan.Utility")]
+[assembly: AssemblyTitle("Ssepan.Utility.Core")]
 [assembly: AssemblyDescription("Support for application housekeeping")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Free Software Foundation, Inc.")]
-[assembly: AssemblyProduct("Ssepan.Utility")]
+[assembly: AssemblyProduct("Ssepan.Utility.Core")]
 [assembly: AssemblyCopyright("Copyright (C) 1989, 1991 Free Software Foundation, Inc.  \n59 Temple Place - Suite 330, Boston, MA  02111-1307, USA")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

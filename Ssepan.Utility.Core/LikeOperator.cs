@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using System.Diagnostics;
 using System.Reflection;
 
-namespace Ssepan.Utility
+namespace Ssepan.Utility.Core
 {
     /// <summary>
     /// http://www.devexpertise.com/category/net/linq/

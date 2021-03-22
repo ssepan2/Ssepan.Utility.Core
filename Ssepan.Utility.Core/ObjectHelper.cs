@@ -13,7 +13,7 @@ using System.Text;
 using System.Xml.Serialization;
 //using Compat.Runtime.Serialization;try this port if nothing else works
 
-namespace Ssepan.Utility
+namespace Ssepan.Utility.Core
 {
 
     public enum SerializationFormat

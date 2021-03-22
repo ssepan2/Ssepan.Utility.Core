@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Reflection;
 
-namespace Ssepan.Utility
+namespace Ssepan.Utility.Core
 {
     /// <summary>
     /// Posted by user 'ILoveFortran' at http://stackoverflow.com/questions/476589/how-do-i-get-from-a-type-to-the-tryparse-method on stackoverflow.com

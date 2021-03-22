@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Ssepan.Utility
+namespace Ssepan.Utility.Core
 {
     public static class StringExtensions
     {
